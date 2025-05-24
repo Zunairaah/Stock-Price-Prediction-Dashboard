@@ -76,5 +76,5 @@ This project presents an **interactive dashboard** developed in Tableau to visua
 
 ## 🙌 Acknowledgements
 
-Thanks to \[Codveda/Internship Program Name] for providing this opportunity and guidance throughout the project.
+Thanks to \[Codveda/Internship Program Data Analysis] for providing this opportunity and guidance throughout the project.
 `#Tableau` `#PowerBI` `#Dashboard` `#DataAnalytics` `#StockPrediction` `#Visualization` `#InternshipProject` `#BusinessIntelligence`
